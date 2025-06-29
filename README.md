@@ -4,7 +4,7 @@ A simple starter project written in [Go](https://golang.org/), created as part o
 
 ![Go Version](https://img.shields.io/badge/go-1.20%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/my-go-project)
+![GitHub repo size](https://img.shields.io/github/repo-size/adityar947/golang-from-scratch)
 
 ---
 
