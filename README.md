@@ -1,4 +1,4 @@
-# My Go Project
+# Golang From Scratch
 
 A simple starter project written in [Go](https://golang.org/), created as part of a learning journey to understand the fundamentals of the language, Go modules, and GitHub integration.
 
@@ -21,19 +21,13 @@ A simple starter project written in [Go](https://golang.org/), created as part o
 
 ```bash
 git clone https://github.com/adityar947/golang-from-scratch.git
-cd my-go-project
+cd golang-from-scratch
 ```
 
 2. Run the code:
 
 ```bash
-go run main.go
-```
-
-You should see:
-
-```
-Hello, GitHub!
+go run <file-name>.go
 ```
 
 ---
